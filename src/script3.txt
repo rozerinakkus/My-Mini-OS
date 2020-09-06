@@ -1,0 +1,35 @@
+set z 30
+print z
+set x 30
+print x
+set y 30
+print y
+set z 30
+print z
+set y 10
+print y
+set a 30
+print a
+set b 30
+print b
+set d HAHA
+print d
+set e IT
+print e
+set f RUNS
+print f
+set g !!
+print g
+set w 24
+print w
+set  akkus rozerin
+print akkus
+set rozerin akkus
+print rozerin
+set rozerin 10
+print rozerin
+set z LOL
+print z
+set a JOKES
+print a
+quit
